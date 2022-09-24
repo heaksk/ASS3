@@ -48,11 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-<<<<<<< HEAD:Assets/素材/PacStudentright.png.meta
   spritePixelsToUnits: 10
-=======
-  spritePixelsToUnits: 22
->>>>>>> afc9f8da2175f9d1077b0abb1781bb7c2d4c3358:Assets/Sprites/PacStudentright.png.meta
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -113,10 +109,10 @@ TextureImporter:
       name: PacStudentright_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 70
-        width: 30
-        height: 24
+        x: 0
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,8 +120,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9aa944d9e54d60046add2a91a4cc0227
-      internalID: 662543903
+      spriteID: 17eac4de955a5f645b7f18cff0f88df4
+      internalID: -907421022
       vertices: []
       indices: 
       edges: []
@@ -134,10 +130,10 @@ TextureImporter:
       name: PacStudentright_1
       rect:
         serializedVersion: 2
-        x: 33
-        y: 70
-        width: 30
-        height: 24
+        x: 32
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -145,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f6dce8d23dd594b48a34e3f5e0e64323
-      internalID: 256168118
+      spriteID: 364579c6241a17a40a4e9654d7f66858
+      internalID: 338106192
       vertices: []
       indices: 
       edges: []
@@ -155,10 +151,10 @@ TextureImporter:
       name: PacStudentright_2
       rect:
         serializedVersion: 2
-        x: 65
-        y: 70
-        width: 30
-        height: 24
+        x: 64
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,8 +162,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 80859c13dfdfce54f995c3590efa3b9e
-      internalID: 954172118
+      spriteID: 425e0a5569f9f8842905e8bc94764ebc
+      internalID: 171291745
       vertices: []
       indices: 
       edges: []
@@ -176,10 +172,10 @@ TextureImporter:
       name: PacStudentright_3
       rect:
         serializedVersion: 2
-        x: 1
-        y: 38
-        width: 30
-        height: 24
+        x: 0
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -187,8 +183,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2c57fb2b43bbb3f4fa52ab26b10f1836
-      internalID: -1192517378
+      spriteID: 6671e09b8949886488858aa0a5cc1968
+      internalID: 150758756
       vertices: []
       indices: 
       edges: []
@@ -197,10 +193,10 @@ TextureImporter:
       name: PacStudentright_4
       rect:
         serializedVersion: 2
-        x: 33
-        y: 38
-        width: 30
-        height: 24
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -208,8 +204,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 76bbe88e800db0945aa3e51a835e3fb8
-      internalID: 1402777522
+      spriteID: b8a60fdca4ae7894b8f1346cad3d9338
+      internalID: 629950808
       vertices: []
       indices: 
       edges: []
@@ -218,10 +214,10 @@ TextureImporter:
       name: PacStudentright_5
       rect:
         serializedVersion: 2
-        x: 65
-        y: 38
-        width: 30
-        height: 24
+        x: 64
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -229,8 +225,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f6c59ebf04742a844aa5195c8e563d5d
-      internalID: -357314129
+      spriteID: 54bf0c53330f7d2488cc897ab37d058a
+      internalID: 74886433
       vertices: []
       indices: 
       edges: []
@@ -239,10 +235,10 @@ TextureImporter:
       name: PacStudentright_6
       rect:
         serializedVersion: 2
-        x: 65
-        y: 6
-        width: 30
-        height: 24
+        x: 64
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -250,8 +246,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 68c3b078a7b5d66428f91a7fad15e783
-      internalID: -1971308364
+      spriteID: 00bc9a4f6eac1ef4ab180729fdaae28c
+      internalID: -1353721381
       vertices: []
       indices: 
       edges: []
@@ -259,7 +255,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 1b015ddde4b9e0047a9d78b4a1b34ce3
     internalID: 0
     vertices: []
     indices: 
@@ -267,13 +263,13 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      PacStudentright_0: 662543903
-      PacStudentright_4: 1402777522
-      PacStudentright_1: 256168118
-      PacStudentright_2: 954172118
-      PacStudentright_5: -357314129
-      PacStudentright_6: -1971308364
-      PacStudentright_3: -1192517378
+      PacStudentright_0: -907421022
+      PacStudentright_4: 629950808
+      PacStudentright_1: 338106192
+      PacStudentright_2: 171291745
+      PacStudentright_5: 74886433
+      PacStudentright_6: -1353721381
+      PacStudentright_3: 150758756
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 
